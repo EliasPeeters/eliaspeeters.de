@@ -1,0 +1,89 @@
+/*
+  This css file is for individual users to restyle items for their personal site,
+  or for the implementation of features specifically for their site. Anything that
+  is an official part of the theme (ex. Pull Requests) should be included in main.css
+  within the formating given.
+*/
+
+body {
+  background-color: rgba(0, 0, 0, 0.02);
+
+}
+
+
+.post {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  transition: 300ms;
+
+}
+
+.post:Hover {
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+a:Hover {
+  color: #3B9DDB !important;
+}
+
+h2 {
+  letter-spacing: 0.125em;
+  transition: 300ms;
+}
+
+h2:Hover {
+  color: #3B9DDB !important;
+}
+
+#header {
+  background-color: #625261;
+  color: white !important;
+}
+
+#header a {
+  color: white !important;
+}
+
+#header a:Hover {
+  color: white !important;
+}
+
+.resumeImage {
+  width: 30px !important;
+
+}
+
+#intro {
+  background-color: white !important;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  transition: 300ms;
+  padding: 20px;
+  padding-top: 10px !important;
+}
+
+#intro:Hover {
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+.intro-circle {
+  margin-bottom: 10px !important;
+}
+
+#intro h2 {
+  margin-top: 10px !important;
+}
+
+h2 {
+  color: #3B9DDB !important;
+}
+
+h2 a {
+  color: black; 
+}
+
+#intro h2 {
+  color: black; 
+}
+
+header {
+  color: black; 
+}
