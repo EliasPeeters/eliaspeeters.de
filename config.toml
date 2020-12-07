@@ -21,7 +21,7 @@ canonifyURLs = true
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
-  dynamicTitles        = true
+  dynamicTitles        = false
   # Sets RSS icons to appear on the sidebar with the social media buttons
   rssAppearAtTop       = true
   rssAppearAtBottom    = true
@@ -129,21 +129,20 @@ canonifyURLs = true
   weight = 3
 
 [[menu.main]]
+  name = "Portfolio"
+  url = "/portfolio/"
+  weight = 4
+
+[[menu.main]]
   name = "Itemized"
   url = "/itemized/"
   identifier = "fa fa-list"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
   identifier = "fa fa-sitemap"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  identifier = "fa fa-envelope-o"
   weight = 6
 
 # Sets Social Media icons to appear and link to your account. Value should be your
@@ -172,26 +171,26 @@ canonifyURLs = true
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  facebook         = ""
   googleplus       = ""
-  reddit           = "example"
+  reddit           = ""
   quora            = ""
   youtube          = ""
   vimeo            = ""
-  whatsapp         = "" # WhatsApp Number
+  whatsapp         = "01723445175" # WhatsApp Number
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "example"
+  instagram        = "elias.peeters"
   tumblr           = ""
-  twitter          = "example"
+  twitter          = "@elias_peeters"
   skype            = ""
   snapchat         = ""
-  pinterest        = "example"
-  telegram         = "example"
+  pinterest        = ""
+  telegram         = "@EliasPeeters"
   vine             = ""
   googlescholar    = ""
   orcid            = ""
-  researchgate     = "example"
+  researchgate     = ""
   # Email
-  email            = "example"
+  email            = "elias.peeters@icloud.com"
