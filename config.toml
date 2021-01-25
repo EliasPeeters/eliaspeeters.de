@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://eliaspeeters.de"
 languageCode = "en-us"
 title = "Elias Peeters"
 theme = "hugo-future-imperfect"
