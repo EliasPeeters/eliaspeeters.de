@@ -134,12 +134,6 @@ canonifyURLs = true
   weight = 4
 
 [[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
-  weight = 5
-
-[[menu.main]]
   name = "Categories"
   url = "/categories/"
   identifier = "fa fa-sitemap"
