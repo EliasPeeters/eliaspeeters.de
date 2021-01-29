@@ -13,7 +13,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "This is my website where you can find my resume, projects created by my and also blog posts. You can also find contact information and links to my social media pages."
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Elias Peeters"
   # Sets where "View More Posts" links
@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = "Welcome to my personal site here in the World Wide Web"
 
-  about     = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tellus lacus, auctor vehicula molestie quis, tempor quis velit. Quisque in quam ac leo efficitur vulputate. Phasellus ullamcorper aliquam sodales. Maecenas sit amet condimentum ipsum. Proin sit amet ligula elit. Mauris."
+  about     = "Hi, my Name is Elias Peeters and I am a Computer Science and Economics Student at the Nordakademie Elmshorn in cooperation with the OTTO GmbH. On this website you can find blog posts, my resume and finished projects."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
